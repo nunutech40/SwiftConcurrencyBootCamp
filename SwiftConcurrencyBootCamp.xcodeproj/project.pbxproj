@@ -11,6 +11,7 @@
 		A08179EC2935C7C600407D45 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A08179EB2935C7C600407D45 /* ContentView.swift */; };
 		A08179EE2935C7C800407D45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A08179ED2935C7C800407D45 /* Assets.xcassets */; };
 		A08179F12935C7C800407D45 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A08179F02935C7C800407D45 /* Preview Assets.xcassets */; };
+		A08179F82935C86B00407D45 /* DoCatchTryThrowBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A08179F72935C86B00407D45 /* DoCatchTryThrowBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		A08179EB2935C7C600407D45 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A08179ED2935C7C800407D45 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A08179F02935C7C800407D45 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A08179F72935C86B00407D45 /* DoCatchTryThrowBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoCatchTryThrowBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				A08179E92935C7C600407D45 /* SwiftConcurrencyBootCampApp.swift */,
 				A08179EB2935C7C600407D45 /* ContentView.swift */,
+				A08179F72935C86B00407D45 /* DoCatchTryThrowBootcamp.swift */,
 				A08179ED2935C7C800407D45 /* Assets.xcassets */,
 				A08179EF2935C7C800407D45 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A08179F82935C86B00407D45 /* DoCatchTryThrowBootcamp.swift in Sources */,
 				A08179EC2935C7C600407D45 /* ContentView.swift in Sources */,
 				A08179EA2935C7C600407D45 /* SwiftConcurrencyBootCampApp.swift in Sources */,
 			);
